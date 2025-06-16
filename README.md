@@ -1,4 +1,4 @@
-# InfraredThermographyML
+# Infrared Thermography Temperature VIA LOGISTIC AND NEURAL MODELS
 Machine Learning to detect feverous individuals
 
 The goal of this is to investigate regression vs neural models on the Infrared Thermography Dataset.
